@@ -1,0 +1,64 @@
+[
+  {
+      "review_id": 1,
+      "restaurant_name": "The Gourmet Spot",
+      "review": "The food was absolutely delicious and the service was exceptional.",
+      "category": "Food, Service"
+  },
+  {
+      "review_id": 2,
+      "restaurant_name": "Cafe Bliss",
+      "review": "The ambiance is wonderful, but the service could be better.",
+      "category": "Ambiance, Service"
+  },
+  {
+      "review_id": 3,
+      "restaurant_name": "Tasty Treats",
+      "review": "I loved the desserts here! The chocolate cake is a must-try.",
+      "category": "Food"
+  },
+  {
+      "review_id": 4,
+      "restaurant_name": "Sea Breeze Diner",
+      "review": "The food was okay, but the ambiance by the sea was amazing.",
+      "category": "Food, Ambiance"
+  },
+  {
+      "review_id": 5,
+      "restaurant_name": "Urban Grill",
+      "review": "The service was terrible, and the food wasn’t great either.",
+      "category": "Food, Service"
+  },
+  {
+      "review_id": 6,
+      "restaurant_name": "Mountain Cafe",
+      "review": "The views from the cafe are stunning. A perfect place to relax.",
+      "category": "Ambiance"
+  },
+  {
+      "review_id": 7,
+      "restaurant_name": "Bistro Bella",
+      "review": "The pasta here is out of this world! Excellent service as well.",
+      "category": "Food, Service"
+  },
+  {
+      "review_id": 8,
+      "restaurant_name": "Downtown Eats",
+      "review": "Not worth the hype. Mediocre food and slow service.",
+      "category": "Food, Service"
+  },
+  {
+      "review_id": 9,
+      "restaurant_name": "Garden Bistro",
+      "review": "The garden setting is charming, but the food was average.",
+      "category": "Ambiance, Food"
+  },
+  {
+      "review_id": 10,
+      "restaurant_name": "The Cozy Nook",
+      "review": "Absolutely loved the cozy atmosphere and friendly staff!",
+      "category": "Ambiance, Service"
+  }
+]
+
+  
